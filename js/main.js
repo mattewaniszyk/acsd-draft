@@ -1846,7 +1846,7 @@
     var google = null;
     var $maps;
     var namespace = '.widget-map';
-    var apiKey = 'AIzaSyBQ4EYEg4aRz9-yiCnerTV7bk8GCWgZOhk';
+    var apiKey = 'AIzaSyAcMfsKALnyqwqhLG2LO63h77F0XfAuno8';
 
     // -----------------------------------
     // Module methods
